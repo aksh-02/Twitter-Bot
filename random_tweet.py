@@ -33,8 +33,8 @@ def tweet_once():
 api = api_auth()
 
 
-# Phrases & Random Tweets
-tweets_list = ["Don't try going sober without a game plan in place. #stopdrinking #IWNDWYT - https://iwndwyt.app/how-to-quit-drinking/", "You don't need to drink alcohol to have a good time. #stop drinking #IWNDWYT - https://iwndwyt.app/fomo/"]
+# Random Tweets
+tweets_list = []
 
 # Running the functions
 tweet_once()
