@@ -67,9 +67,8 @@ def quote(num=100):
 # Main
 api = api_auth()
 
-# Phrases & Random Tweets
-phrases = ['IWNDWYT', '7 days sober', '30 days sober', '100 days sober']
+# Phrases
+phrases = []
 
 # Running the functions
-os.chdir(r'C:\Users\andyj\Downloads')
 quote()
